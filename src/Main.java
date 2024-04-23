@@ -16,7 +16,7 @@ public class Main {
         Map<String, Set<String>> vinOwners = new HashMap<>();
 
         Map<String, Car> insRegNo = new HashMap<>();
-        try {
+         try {
             input = new Scanner(file);
 
             while (input.hasNext()) {
