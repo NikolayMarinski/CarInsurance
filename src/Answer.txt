@@ -1,0 +1,5 @@
+CA1234AA 4 Owners 12 Ins
+P0554AB 3 Owners 9 Ins
+E6666AA 3 Owners 7 Ins
+TX1110PP 2 Owners 5 Ins
+P1111AP 2 Owners 7 Ins
